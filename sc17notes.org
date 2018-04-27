@@ -1,0 +1,234 @@
+#+title: WHPC@SC17 Mentoring Organization Notes
+#+author: Elsa Gonsiorowski
+#+date: October 13, 2017
+
+The notes are intended to capture the process of organizing the mentoring for the WHPC workshop at Supercomputing 2017.
+Ideally we should communicate the overall timeline to everyone (but that does mean that we stick to the timeline).
+
+#+NAME: overall_timeline
+| Date               | Item                           |
+|--------------------+--------------------------------|
+| July 9, 2017       | Call for poster submissions    |
+| July 21, 2017      | Call for mentoring             |
+| August 15, 2017    | Mentoring Survey open          |
+| August 27, 2017    | Close of poster submission     |
+| September 18, 2017 | Poster acceptance notification |
+| October 9, 2017    | Confirmation Deadline          |
+| October 12, 2017   | Both Surveys closed            |
+| October 13, 2017   | Matching Emails Sent           |
+| October 13, 2017   | Tcon Doodle Open               |
+| October 16, 2017   | Tcon Doodle Closed             |
+| October 23, 2017   | Kickoff Tcon                   |
+| November 12, 2017  | WHPC@SC17 Workshop             |
+
+* Surveys
+
+There are 2 surveys: one for mentors and one for mentees.
+They are both created with Google forms.
+The mentor servey can remain open for several weeks.
+
+** Mentee Survey
+
+This is used both to collect information on the mentees as well as to confirm that they will be attending/presenting at WHPC.
+
+*** Survey Content
+
+# Title
+Mentee Survey
+
+# Text
+Congratulations on your acceptance as a poster presenter to the Women in HPC Workshop at SC17! As a part of this program, we will be providing mentorship to those participating in the virtual poster session.
+
+Mentoring will consist of a group kickoff tele-conference in September.
+Mentors and mentees are then expected to have bi-weekly phone calls through November.
+This will help the mentees as they prepare their posters, but could also consist of both personal and professional mentorship.
+During SC, mentors and mentees will be encouraged to attend various workshops, sessions, and other activities together.
+
+This survey is designed to collect some information about yourself to help match you with a mentor.
+
+# Questions
+- Timestamp
+- Username (Email) - Required
+- Name - Should be required
+- I will attend and present my work at the Women in HPC Workshop on November 12. - Yes / No
+- Have you previously attended the Supercomputing Conference? - Yes / No / Other
+- Have you previously attended a WHPC event? If so, which? - No, I have not attended a WHPC event. / Other
+- Do you have experience presenting your research to an audience? - No / Yes, with a poster at a poster session / Yes, through a talk with slides (10+ minutes of presenting) / Other
+- What stage are you at in your career? Or, how could a mentor help you achieve a career goal? - Short Answer
+- Are you interested in discussing any of the following work/life topics with a mentor? Your selections will be shared with your mentor. - Having a family during graduate school/post-doc / Maintaining a heathly work/life balance / Improving relationships with your advisor, co-workers, and/or colleagues / Helping determine what my next career step should be / Finding a job for the next stage of an academic career / Finding a non-academic job / Making progress on a thesis or dissertation / Preparing for qualifiers/comprehensive exams / How to get published / Managing imposter syndrome / Moving to a new country / Other
+
+*** Retrospective
+
+The most useful items to perform the matching were:
+
+- Previous SC attendance
+- What stage are you at in your career
+- How could a mentor help / which topics are you interested in
+
+Next year: add the topic "networking".
+The previous SC attendance was useful for matching to mentor who would not be attending SC.
+
+** Mentor Survey
+
+The mentor survey is for people to apply to be mentors.
+
+*** Survey Content
+
+# Title:
+Mentor Application -- WHPC Workshop at SC'17
+
+# Text:
+As a part of the 7th International WHPC Workshop (at SC17), we will be providing mentorship to those participating in the virtual poster session.
+We invite all SC participants, especially those who will be attending the WHPC workshop, to apply to mentor our early career women attendees.
+
+Mentoring will consist of a group kickoff tele-conference in early September.
+Mentors and mentees are then expected to have bi-weekly phone calls through November.
+This will help the mentees as they prepare their posters, but could also consist of both personal and professional mentorship.
+During SC, mentors and mentees will be encouraged to attend various workshops, sessions, and other activities together.
+
+Preference will be given to mentors who plan on attending to SC'17 however we are unable to provide any funding.
+
+# Questions
+- Timestamp
+- Username (Email) - Required
+- Your name - Required
+- Are you planning to attend SC17? Note: WHPC is unable to provide funding for travel. - Yes / No
+- Are you planning to attend the WHPC workshop? - Yes / No
+- Are you able to commit to pre-SC mentoring calls? Mentors and mentees are expected to participate in bi-weekly phone calls September through November. - Yes / No / Other
+- Given the time commitment, how many mentees would you be comfortable with? - 1 / 2 / 3+
+- Please describe any mentoring experience you have. (100 words max) - Long Answer
+- Please describe how your experiences could further the careers of the mentees. (100 words max) - Long Answer
+- Which of the following best describes your employer? - Academic Institution / Industry/Private Company / Research Center (e.g., National Lab) / Other
+- What is your current status/job title? - Undergraduate Student / Graduate Student / Postdoctoral Fellow / University Faculty or Equivalent / Research Staff / Non-research Staff / Other
+- Have you participated in previous WHPC events? If so, which? - Short Answer
+- Have you previously attended a Supercomputing Conference? - Yes / No
+
+*** Retrospective
+
+Things I should have asked:
+
+- What stage are you at in your career.
+  This would have helped with matching experince to mentees.
+
+Most useful was "how could you help".
+
+* Emails
+
+Once the matching has been completed there are several emails that need to be sent.
+It can be quite labor intensive to manually edit all the emails.
+This is a huge opportunity for improvement!
+
+** WHPC@SC17 Mentoring: Welcome!
+
+Hello all!
+
+I would like to welcome you all as participants in the Women in HPC workshop at SC’17! I know it has been a while since you’ve filled out the surveys, but I’ve finally completed the matching process. This email includes all of the poster presenters and volunteer mentors; you will be receiving a follow up email matching mentees and mentors.
+
+First, to formally kick-off the WHPC@SC17 mentoring, we will be having a telecon. Please fill out the following doodle poll: https://doodle.com/poll/8pbdyhiuyfabrirs
+We have participants in many time zones, so please be flexible with as many time slots as you can. Also, don’t forget to make sure the poll is set to the correct timezone when you submit your answers.
+During this call we will talk about some of the WHPC activities that will be happening during SC and how to prepare for the workshop presentation.
+
+Along with our kickoff phone call, we encourage everyone to use the WHPC slack (womeninhpc.slack.com). You will see an invite shortly if you are not already a member.
+
+Throughout this process, if you have any problems or concerns, please feel free to bring them to the attention of either myself, or any of the WHPC@SC17 organizational committee (Toni Collis [a.collis@epcc.ed.ac.uk] and Misbah Mubarak [mmubarak@anl.gov]).
+
+This is truly an impressive group of very talented women, I am so excited to be working with you all!
+
+Elsa Gonsiorowski
+WHPC@SC17 Mentoring Chair
+
+** WHPC@SC17 Mentoring: Information for Mentors
+
+Dear *mentor*,
+
+You have been matched with *mentee*. Please reach out to her and set up a time for you both to chat. I encourage you to use skype or speak on the phone at least twice before Supercomputing.
+
+In addition with helping *mentee* prepare for her presentation, she has indicated an interest in the following topics:
+
+*insert topics*
+
+I would like to personally thank you for volunteering your time! You are helping to make Women in HPC a strong, world-wide network.
+
+Thank you,
+Elsa Gonsiorowski
+WHPC@SC17 Mentoring Chair
+
+** WHPC@SC17 Mentoring: Mentor & Mentee Introduction
+
+Dear *mentee* and *mentor*,
+
+I hope you are excited for the WHPC workshop and Supercomputing 2017!
+
+I would like to introduce you to each other. *mentee* will be presenting her technical work during the workshop. *mentor* will be mentoring you for the next month or so, as you prepare for the conference.
+
+You can find some information about mentoring and its importance here: https://www.womeninhpc.org/formal-mentoring/
+
+Finally, if you have any questions, comments or concerns over mentoring at any time before, during, or after Supercomputing, please do not hesitate to contact me.
+
+Elsa Gonsiorowski
+WHPC@SC17 Mentoring Chair
+
+* Slack
+
+Next, invite all the participants to Slack.
+This will be a two-step process:
+
+0. Create a private channel for this year's mentoring group.
+1. Invite participants to womeninhpc.slack.com team.
+   This requires a comma-separated export of all email addresses.
+2. Once they are in the slack, add them to the mentoring private channel.
+   This is done by hand.
+
+* Run the Kickoff Telecon
+
+Don't forget to invite the others on the organizing committee to fillout the doodle poll.
+They will probably have a topic or two that they will want touch on during the telecon.
+Once the telecon time has been set, send out an agenda and call information to the group.
+
+| Topic                  | Speaker |
+|------------------------+---------|
+| Mentoring, SC Calendar | Elsa    |
+| Lightning Talk         | Misbah  |
+| Breakfast, overview    | Toni    |
+
+
+** Notes for next time
+
+-> marla is local and volunteered to help
+
+Re-cap the lightning talk & poster expectations
+
+- weather! dry weather!
+  - clothing, sunscreen hat
+  - it'll snow
+  - moisturizer, chapstick
+- good shoes
+- drink water
+
+Mentoring?
+- there is no right way to do this
+
+Video on posters & lightning talks
+
+Links:
+- agenda
+- reception RSVP
+- video
+
+Summary: \approx 30 mins talk. +5 of questions
+
+** Followup Email
+
+Hi All,
+
+Thank you to those who could join us for the kickoff call. Here are some notes about the information we covered today. First, I want to emphasize that if you have /any/ questions, please don't hesitate to ask. Toni, Misbah, and I are glad to answer your emails.
+
+For those presenting at the WHPC workshop, Toni reviewed the expectations. Presenters will be giving a lightning talk on their topic, with a limit of 2 content slides and 1 title slide. A packet of the printed posters will be distributed to workshop attendees. Misbah will be sending an email soon with more details.
+
+For those who are new to SC or who have never been to Denver, we discussed some conference pro-tips. I've attached a schedule with events that I think everyone should know about, including all the WHPC events and student job fair. I have outlined events in purple that I invite everyone to attend with me! There are 2 WHPC events that require RSVP. You should have received an email to the Monday brunch and a link for the networking reception is attached.
+
+Also, remember to bring comfortable walking shoes (the convetion center is quite large), layers (there may be snow! and the convention center will be chilly), and chapstick. Don't forget that Denver is at a high elevation and you'll need to stay hydrated.
+
+Much of this information has been posted to Slack and I've attached some links below.
+
+I hope we got your week started off on the right foot :) See you in Denver!
