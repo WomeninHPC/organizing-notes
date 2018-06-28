@@ -1,0 +1,69 @@
+#+title: WHPC@ISC18 Poster Organization Notes
+#+author: Elsa Gonsiorowski
+#+date: June 28, 2018
+
+These notes are written from the perspective of the workshop organizer, not a poster chair.
+
+* Duties
+
+- Open and close the call for posters
+- Review the submissions (get others to review as well)
+- Send acceptance/rejection notifications
+- Collect attendance confirmations
+- Send out WHPC slide template
+- Print participation certificates
+- Gather slides and merge into one slide deck
+- Run poster session on the day of
+
+* Emails
+
+** Poster Acceptance Email
+
+Subject: WHPC Posters at ISC18
+1 attachment included.
+
+Dear RECIP_FN,
+
+Thank you for submitting to the WHPC@ISC18 poster track.
+
+We are pleased to inform you that your submission "SUBMISSION_TITLE" is *conditionally* accepted.
+
+This means that we believe your submission is suitable for a poster, however, in the current stage needs to be revised to improve the presentation.
+
+Therefore, WHPC will be assigning you a mentor who will help by discussing the reviews and suggesting how to make suitable revisions. You are asked to submit a final version of your poster by Monday 11th June 2018 and upload it to Linklings.
+
+If you are happy to proceed, please login to Linklings and confirm your participation in the ISC18 poster programme by confirming you status to "accept". This must be done by *Wednesday 9th May 2018* at the latest.
+
+Once your have confirmed you participation in the conference poster sessions please check the reviewer comments. A mentor will then be assigned to you and will contact you next week to help you improve your poster content.
+
+Please note that by accepting you are expected to provide your poster for display and attend the ISC18 conference on the following two days:
+
+- During the main ISC conference on Wednesday, June 27, along with the Research posters, PhD Forum posters and HPC in Asia posters in "Areal" in the Forum building of Messe Frankfurt. Please find a map attached. One of the authors is responsible for mounting the poster by 8.15am and removing it by 6pm that day. Participation requires a conference pass for Wednesday 27th June.
+- During the Women in HPC ISC18 workshop on Thursday, June 28th 9am-1pm in the Frankfurt Marriott hotel (next to Messe Frankfurt). Posters must be on display in the workshop room by 9am. Please check the ISC agenda for confirmation on the room.
+
+At least one poster author must be present on both of these days and must hold a valid pass for Wednesday 27th (conference pass) and Thursday 28th (workshop pass). Please note that we are unable to offer any financial assistance with the costs of attendance.
+
+During the Women in HPC workshop the lead author is expected to provide a short presentation on the poster and to be present at the poster during the coffee break. Details on the presentation requirements will follow in late May.
+Poster presenters are responsible for creating, printing and transporting their posters to the conference. The useable area of the boards provided at ISC 2018 is 950mm x 2380mm (37.4” x 93.7”). The final poster may not exceed A0 portrait paper size (841 mm x 1189 mm/33.1” x 46.8”) or A1 landscape paper size (594 mm x 841 mm/23.4” x 33.1”). Each poster presenter may only use one side of a poster board for his/her poster.
+
+Please log in to linklings to confirm the status "accept" as soon as possible.
+
+We look forward to meeting you at ISC-HPC 2018 and at the Women in HPC workshop.
+
+Regards,
+Weronika Filinger (WHPC@ISC18 Posters Chair
+Jessica Popp (WHPC@ISC18 Posters Vice-Chair)
+Elsa Gonsiorowski (WHPC@ISC18 Chair)
+Toni Collis (WHPC General Chair)
+
+** Other coordinating email?
+
+* Day Of Responsibilities
+
+Poster chair should:
+
+1. Print out and bring certificates of participation for the presenters.
+2. Gather the powerpoint presentations from each of the speakers and combine them into a single file.
+   Ensure that any slide auto-transitions are preserved.
+3. Ensure that there is an easy way to figure out the presenter ordering at the start of the session (e.g., use the order printed on the agenda)
+4. Run the poster session (kickoff and transition to networking session/coffee)
