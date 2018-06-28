@@ -1,0 +1,183 @@
+#+title: WHPC@ISC18 Workshop Organization Notes
+#+author: Elsa Gonsiorowski
+#+date: June 28, 2018
+
+These notes capture my process for organizing the WHPC workshop at ISC18.
+
+There are a few main tasks for the workshop organizer:
+
+1. Build a committee
+2. Fill-out the paperwork to the workshop application to ISC
+3. Work with the posters and mentoring chair to set a timeline
+4. Solicit speakers and build the agenda
+5. Make sure everything gets done
+6. Run the workshop on the day of
+
+The workshop organizer keeps everything (and everyone) on track.
+Thus, it is essential that you have a great committee.
+Also, having an email list for the committee members can be helpful.
+
+#+name: organizing_committee
+| Name     | Role                      |
+|----------+---------------------------|
+| Elsa     | Chair                     |
+| Toni     | Vice Chair, Website Chair |
+| Mozhgan  | Mentor Chair              |
+| Gokcen   | Mentor Vice Chair         |
+| Weronika | Poster Chair              |
+| Jessica  | Poster Vice Chair         |
+
+Note that many people who contribute to ISC workshop organization will also help with ISC BoF and SC workshop organization.
+It is important to understand the timelines of everything, but focus on what is needed for the ISC workshop.
+
+#+name: overall_timeline
+| Date     | Item                                 |
+|----------+--------------------------------------|
+| Jan. 11  | 1st ISC & SC Telecon                 |
+| Feb. 7   | SC Workshop deadline                 |
+| Feb. 21  | *ISC* Workshop deadline              |
+| Feb. 28  | ISC BoF Deadline                     |
+| March 23 | ISC Acceptance Notification          |
+| April 4  | 2nd ISC & SC Telecon                 |
+| April 4  | CFP Open                             |
+| April 21 | CFP Initial Deadline                 |
+| April 28 | CFP Real Deadline                    |
+| May 9    | Poster Presenter Acceptance Deadline |
+| May 25   | Mentor Matching Survey Deadline      |
+| May 31   | Mentor Kickoff Telecon               |
+| June 5   | Start Soliciting Speakers            |
+| June 28  | WHPC@ISC18 Workshop                  |
+
+*Notes for Next Time*
+
+- Using linklings to organize the poster submissions was a headache.
+- There was too much of a delay between poster presenters accepting and mentors being assigned (due to the confusion of linklings).
+- More telecons leading up to ISC would have been useful.
+
+* ISC Workshop Application
+
+The ISC application consists of pieces:
+
+1. A form, which includes some short answer questions and lists the main organizers.
+2. A document with additional information.
+   This document should be a coherent, complete description of the workshop.
+
+Be sure to update all the information from any google doc for this year.
+Update the workshop number (even numbers at ISC, odd numbers at SC), year, location, theme, etc.
+For ISC we have done a half-day workshop.
+The expected attendance is 20 to 40 people.
+
+Note that the topics you mention in the application should then be used to build your agenda and solicit speakers.
+
+* Workshop Format
+
+The ISC18 agenda was:
+
+#+NAME: generic_agenda
+| *Time Slot* | *Item*                               |
+|-------------+--------------------------------------|
+| 30 mins     | Keynote                              |
+|-------------+--------------------------------------|
+| 3x 10 mins  | Short talks session 1                |
+| 20 mins     | Panel (including keynote speaker)    |
+|-------------+--------------------------------------|
+| 5x 5 mins   | Lightning Talks                      |
+|-------------+--------------------------------------|
+| 1 hour      | Hands-on Activity / Group Discussion |
+|-------------+--------------------------------------|
+| 3x 10 mins  | Short talks session 2                |
+| +20 mins+   | +Panel+ /ran out of time/            |
+
+** Building Blocks
+
+The workshop can consist of any number of talks, discussion sessions, activities that you would like.
+Having some flex time is useful (such as the panel discussions), try not to run into the breaks too much.
+
+Do not over-fill the schedule.
+Activities and breakout sessions will fill up their whole time slot.
+
+*** Posters & Lightning Talks
+
+The poster session / lightning talks are the main feature of the WHPC workshop.
+It is super important that we give early-career women (or whomever submits) the chance to speak about their technical work.
+Depending on the time and number of speakers, anywhere from 2 to 5 minutes per speaker can be arranged.
+In any case, a single slide deck must be compiled with no questions between the presentations.
+
+If the time slot is 2 minutes per speaker, it is recommended that auto-advancing slides are used (though this puts a larger burden on the poster chair).
+
+This session should fall just before a coffee break, which can then double as a networking / question session.
+
+*** Keynote
+
+Length can be anywhere from 30 to 50 minutes.
+ISC (in particular) has a tight schedule, so 30 minutes is probably the maximum.
+Since the Keynote speaker will join the panel, if they run over time questions for them can be saved until the panel.
+
+Coordinate with Toni to find a keynote speaker.
+Having one of the WHPC sponsors is a great way to get some perspective from the industry.
+
+*** Short Talks
+
+The WHPC community is vibrant.
+The short talks combined with a panel allow us to cover a bunch of topics and then hold a group discussion.
+The panel time slot can be anywhere from 20 to 30 minutes (and is flexible).
+
+Have someone chair the short talks session.
+This person should keep a timer for each speaker and cut them off if need.
+This person should then run the panel (having them stand while the panel sits).
+They should also prep a question or two to get the panel discussion started.
+
+*Note*: the general topics for these talks were set in the workshop application.
+
+*** Activity / Discussion
+
+ISC likes for there to be a more engaging portion of workshops.
+Thus, having an activity or guided group discussion is useful.
+For almost any discussion, allocate more time than you might think, especially if you are presenting new information and expecting users to reflect and discuss.
+
+Small group breakouts can work, but take a large amount of time and are better suited to a BoF.
+Be sure to bring any breakout discussions back to audience as a whole.
+
+* Speakers
+
+This is one of the main tasks for the workshop organizer.
+It is important that you give people some prep time.
+That said, many of the speakers were solicited at the last minute and were very prepared.
+
+** Speaker Email Example 1
+
+Elsa Gonsiorowski (Chair, Women in HPC workshop at ISC18) and myself (Chair of WHPC) would like to invite you to speak at the WHPC workshop at ISC18 on Thursday 28th June. We would particularly like to have you talk about communications and self-promotion. Alison mentioned to me earlier this year that you would be able to talk about personal biographies and photographs and how to make the most of them. This would be part of a series of short talks on ‘Skills to thrive’ that are aimed at enhancing the careers of our attendees (women, but also men!).
+
+I am anticipating that your contribution would be in the morning, as part of a series of short talks (up to 10 minutes each, slides optional), including yours. The  draft agenda for the day has this session starting at 9:40am, followed by a panel discussion which I would also like you to participate in. Although the agenda is not yet finalised, I anticipate that this session would finish before the morning coffee at 11am and would ask that you are present for this entire portion of the workshop. Of course, I hope you would be able to attend all or most of the workshop, but I realise that ISC is a busy week so you may not be able to.
+
+Please could you let me know by asap if you are interested in contributing to the workshop.
+
+With best wishes,
+Toni
+
+** Speaker Email Example 2
+
+** Ideas for Next Time
+
+Soliciting speakers via the WHPC newsletter would have been useful.
+Namely, if you wait until the last minute (as I did), it would have been helpful to identify people who were already planning to attend the workshop and then get them to speak.
+
+* Mentoring
+
+See [[file:sc17-mentoring.org][these notes]] on the mentor organization for SC17.
+They proved very helpful for those organizing at ISC18.
+
+* Posters
+
+See [[file:isc18-posters.org][these notes]] on the poster organization for ISC18.
+
+* Printed Items
+
+There are few items to prep for the day of the event (included the number brought to ISC18):
+
+- Printed agenda (50 copies)
+- Printed activity sheets, if needed (30 copies)
+- Certificates for poster presenters (can be delegated to poster chair)
+- Survey (forgot to do this)
+
+Toni will also have WHPC branded buttons, stickers, pens, and fliers.
