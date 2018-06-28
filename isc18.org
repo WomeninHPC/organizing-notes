@@ -35,9 +35,9 @@ It is important to understand the timelines of everything, but focus on what is 
 |----------+--------------------------------------|
 | Jan. 11  | 1st ISC & SC Telecon                 |
 | Feb. 7   | SC Workshop deadline                 |
-| Feb. 21  | *ISC* Workshop deadline              |
+| Feb. 21  | *ISC Workshop* deadline              |
 | Feb. 28  | ISC BoF Deadline                     |
-| March 23 | ISC Acceptance Notification          |
+| March 23 | ISC Workshop Acceptance Notification |
 | April 4  | 2nd ISC & SC Telecon                 |
 | April 4  | CFP Open                             |
 | April 21 | CFP Initial Deadline                 |
@@ -173,7 +173,7 @@ See [[file:isc18-posters.org][these notes]] on the poster organization for ISC18
 
 * Printed Items
 
-There are few items to prep for the day of the event (included the number brought to ISC18):
+There are few items to prep for the day of the event (including the number brought to ISC18):
 
 - Printed agenda (50 copies)
 - Printed activity sheets, if needed (30 copies)
