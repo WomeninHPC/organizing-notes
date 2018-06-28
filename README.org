@@ -1,0 +1,9 @@
+* WHPC: Workshop Organization Notes
+
+These notes are from efforts to organize the Women in HPC workshops.
+We have had successful workshops at both the International Supercomputing Conference and the Supercomputing Conference since 2014.
+As WHPC grows, we hope to cultivate new leaders and encourage our members to contribute to the workshop organization efforts.
+
+** These Notes
+
+Each notes file is written in [[https://orgmode.org][Org]] markup (best used with Emacs).
